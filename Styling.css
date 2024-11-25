@@ -1,0 +1,61 @@
+html{
+background-color:#F3F3E0;
+}
+
+h1{
+font-family: 'Courier New', Courier, monospace;
+}
+
+ul{
+   list-style-type: none;
+   margin: 10;
+   padding: 20px;
+   background-color:#608BC1;
+}
+
+li{
+    display: inline;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+}
+
+a:hover{
+background-color: black;
+}
+
+.Swimming{
+    background-image:url(Screenshot\ 2024-10-14\ 184853.png);
+    background-repeat:no-repeat ;
+    background-position:right ;
+    background-attachment: scroll ;
+    height: 250px;
+}
+
+.Chess{
+    background-image:url(Screenshot\ 2024-10-14185027.png);
+    background-repeat:no-repeat ;
+    background-position:right ;
+    background-attachment: scroll;
+    height: 250px;
+
+} 
+
+.Cricket{
+    background-image:url(Screenshot\ 2024-10-14\ 185318.png);
+    background-repeat:no-repeat ;
+    background-position:right ;
+    background-attachment: scroll ;
+    height: 250px;
+}
+
+.football{
+    background-image:url(Football.png);
+    background-repeat:no-repeat ;
+    background-position:right ;
+    background-attachment: scroll ;
+    height: 250px;
+}

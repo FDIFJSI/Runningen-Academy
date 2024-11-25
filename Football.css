@@ -1,0 +1,32 @@
+ul{
+    list-style-type: none;
+    margin: 10;
+    padding: 20px;
+    background-color:#608BC1;
+ }
+ 
+ li{
+     display: inline;
+ }
+ 
+ a{
+     text-decoration: none;
+     color: white;
+     padding: 20px;
+ }
+ 
+ a:hover{
+ background-color: black;
+ }
+
+ html{
+background-image: url(Football.png);
+background-repeat:no-repeat ;
+background-attachment: fixed ;
+background-size: cover;
+ }
+
+ .Football1{
+    background-color:blanchedalmond;
+    border-radius: 5px;
+     }
